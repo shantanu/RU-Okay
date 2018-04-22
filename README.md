@@ -1,4 +1,4 @@
-# RU-Okay-
+# RU Okay?
 https://devpost.com/software/ru-okay
 ## Inspiration
 Healthcare costs are on the rise - drugs are being promoted on national media, some doctors partner with companies to get commission in return for higher prescriptions rates. Many drugs have similar purposes, but vastly different side effects and costs, leaving patients wondering why their doctor prescribed a specific medicine over a cheaper or less adverse one. **RU Okay?** is here to fix that.
